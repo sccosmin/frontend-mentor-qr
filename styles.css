@@ -1,0 +1,26 @@
+body {
+    background-color: #F0F0F0;
+    font-family: 'Fira Code', monospace;
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    margin: 10vw 5vw;
+    padding: 20vw;
+    background-color: #D5E1EF;
+}
+
+img {
+    height: 10%;
+    width: 10%;
+}
+
+.attribution {
+    font-size: 2vw;
+    color: gray;
+}
+
+a {
+    color: rgb(25, 147, 135);
+    text-decoration: none;
+}
