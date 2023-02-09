@@ -44,4 +44,4 @@ In the future, I would like to get more familiar with Github, as well as underst
 ## Author
 
 - Github - [sccosmin](https://github.com/sccosmin)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sccosmin)
+- Frontend Mentor - [@sccosmin](https://www.frontendmentor.io/profile/sccosmin)
