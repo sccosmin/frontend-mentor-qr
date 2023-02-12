@@ -11,6 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [Help](#help)
 - [Author](#author)
 
 ## Overview
@@ -40,6 +41,10 @@ With this being m first project on Frontend Mentor, I learned to use Github, a s
 ### Continued development
 
 In the future, I would like to get more familiar with Github, as well as understanding and perfecting responsive web design.
+
+### Help
+
+A big thank you to [Melvin Aguilar](https://www.frontendmentor.io/profile/MelvinAguilar) for giving me important suggestions on how to improve the final result.
 
 ## Author
 
